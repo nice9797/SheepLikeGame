@@ -1,0 +1,17 @@
+# Cocos Creator
+library/
+temp/
+build/
+build-templates/
+profiles/
+preview-template/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
